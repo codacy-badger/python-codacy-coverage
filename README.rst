@@ -1,3 +1,8 @@
+Deprecated
+======================
+
+This repository is no longer maintained. As an alternative, check `codacy-coverage-reporter <https://github.com/codacy/codacy-coverage-reporter>`_ to send your test coverage results to your Codacy dashboard.
+
 python-codacy-coverage
 ======================
 
