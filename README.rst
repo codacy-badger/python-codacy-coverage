@@ -1,6 +1,10 @@
 Deprecated
 ======================
 
+.. image:: https://api.codacy.com/project/badge/Grade/511abef535db4297adcaae0da0f004c5
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/gh/codacy/python-codacy-coverage?utm_source=github.com&utm_medium=referral&utm_content=codacy/python-codacy-coverage&utm_campaign=Badge_Grade_Settings
+
 This repository is no longer maintained. As an alternative, check `codacy-coverage-reporter <https://github.com/codacy/codacy-coverage-reporter>`_ to send your test coverage results to your Codacy dashboard.
 
 python-codacy-coverage
